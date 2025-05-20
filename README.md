@@ -25,8 +25,8 @@
 </h4>
 
 <div style="display: flex">
-  <img align=center width=460 src="images/demo.png">
-  <img align=center width=420 src="images/exemplo.png">
+  <img width=460 src="images/demo.png">
+  <img width=420 src="images/exemplo.png">
 </div>
 
 <div style="clear: both;"></div>
