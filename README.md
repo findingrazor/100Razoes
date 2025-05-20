@@ -25,8 +25,8 @@
 </h4>
 
 <div style="display: flex; gap: 10px;">
-  <img width=500 src="images/demo.png">
-  <img width=460 src="images/exemplo.png">
+  <img width=460 src="images/demo.png">
+  <img width=420 src="images/exemplo.png">
 </div>
 
 <div style="clear: both;"></div>
