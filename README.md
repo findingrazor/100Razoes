@@ -24,7 +24,7 @@
  específicas mostravam imagens específicas, no caso, é só adcionar um else if no if que seleciona a frase e cria a div. Vou deixar uma imagem de exemplo
 </h4>
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex">
   <img width=460 src="images/demo.png">
   <img width=420 src="images/exemplo.png">
 </div>
